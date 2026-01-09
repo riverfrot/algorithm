@@ -10,7 +10,7 @@ public class Main {
 
         //입력값 셋팅
         int testCase = Integer.parseInt(br.readLine());
-
+        
 
         for(int k=0; k<testCase; k++){
 
