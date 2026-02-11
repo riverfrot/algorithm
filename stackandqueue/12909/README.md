@@ -3,7 +3,6 @@
 프로그래머스 올바른괄호 (링크 : hhttp://school.programmers.co.kr/learn/courses/30/lessons/12909)
 
 ## 제한조건
-별도로 시간제한, 메모리 제한 조건이 없음... 물어봐야할듯..
 
 ## 시간 복잡도 분석 및 전략
 stack.isEmpty() 체크 및 pop() 연산은 O(1)의 시간을 가지므로

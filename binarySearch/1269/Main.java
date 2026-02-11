@@ -15,6 +15,7 @@ public class Main {
 
         HashMap<Integer, Integer> map = new HashMap<>();
 
+
         for(int i=0; i<N; i++){
             map.put(Integer.parseInt(firstInput[i]),1);
         }

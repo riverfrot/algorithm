@@ -3,7 +3,6 @@
 프로그래머스 프로세스 (링크 : https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 
 ## 제한조건
-별도로 시간제한, 메모리 제한 조건이 없음... 물어봐야할듯..
 
 ## 시간 복잡도 분석 및 전략
 현재 방식은(Arrays.sort + queue)는 O(N^2)의 시간복잡돌르 가질수있음 최악의 경우
